@@ -80,26 +80,26 @@ Name | Values | Description | Sample
 
 ### String format:
 
-Format | English Description | Persian Description 
+Format | English Description | Pashto Description
 ------------- | ------------- | -------------
-**yyyy** | Year, 4 digits | سال چهار رقمی
-**yy** | Year, 2 digits | سال دو رقمی
-**MMMM** | Month name | نام ماه
-**MM** | Month, 2 digits | عدد دو رقمی ماه
-**M** | Month, 1 digit | عدد تک رقمی ماه
-**dddd** | Week day name | نام روز هفته
-**dd** | Month's day, 2 digits | عدد دو رقمی روز 
-**d** | Month's day, 1 digit | عدد تک رقمی روز 
-**HH** | Hour, 2 digits - 0 - 24 | عدد دو رقمی ساعت با فرمت 0 تا 24
-**H** | Hour, 1 digit - 0 - 24 | عدد تک رقمی ساعت با فرمت 0 تا 24
-**hh** | Hour, 2 digits - 0 - 12 | عدد دو رقمی ساعت با فرمت 0 تا 12
-**h** | Hour, 1 digit - 0 - 12 | عدد تک رقمی ساعت با فرمت 0 تا 12
-**mm** | Minute, 2 digits | عدد دو رقمی دقیقه
-**m** | Minute, 1 digit | عدد تک رقمی دقیقه
-**ss** | Second, 2 digits | ثانیه دو رقمی
-**s** | Second, 1 digit | ثانیه تک رقمی
-**tt** | AM / PM | ب.ظ یا ق.ظ
-**t** | A / P | حرف اول از ب.ظ یا ق.ظ
+**yyyy** | Year, 4 digits | کال، څلور رقمي
+**yy** | Year, 2 digits | کال، دوه رقمي
+**MMMM** | Month name | د مياشتې نوم
+**MM** | Month, 2 digits | د مياشتې دوه رقمي شمېره
+**M** | Month, 1 digit | د مياشتې يو رقمي شمېره
+**dddd** | Week day name | د اوونۍ د ورځې نوم
+**dd** | Month's day, 2 digits | د ورځې دوه رقمي شمېره
+**d** | Month's day, 1 digit | د ورځې يو رقمي شمېره
+**HH** | Hour, 2 digits - 0 - 24 | د ساعت دوه رقمي شمېره، له 0 تر 24
+**H** | Hour, 1 digit - 0 - 24 | د ساعت يو رقمي شمېره، له 0 تر 24
+**hh** | Hour, 2 digits - 0 - 12 | د ساعت دوه رقمي شمېره، له 0 تر 12
+**h** | Hour, 1 digit - 0 - 12 | د ساعت يو رقمي شمېره، له 0 تر 12
+**mm** | Minute, 2 digits | د دقیقې دوه رقمي شمېره
+**m** | Minute, 1 digit | د دقیقې يو رقمي شمېره
+**ss** | Second, 2 digits | د ثانیې دوه رقمي شمېره
+**s** | Second, 1 digit | د ثانیې يو رقمي شمېره
+**tt** | AM / PM | غ.م يا غ.و
+**t** | A / P | د غ.م يا غ.و لومړی توری
 
 <hr>
 
